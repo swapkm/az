@@ -11,3 +11,18 @@ export  const GET_FEEDS = gql`
     }
   }
 `;
+
+export const GET_BLOGS = gql`
+query GetAllBlog {
+  getAllBlog {
+    _id
+    title
+    content
+    author {
+      _id
+    }
+    createdAt
+  }
+}
+`;
+

@@ -28,7 +28,9 @@ export default function FeedPage() {
   const [title, setTitle] = useState('');
   const [content, setContent] = useState('');
   const [image, setImage] = useState('');
+
   const [createFeed] = useMutation(CREATE_FEED);
+  
   const [feeds, setFeeds] = useState<Feed[]>([]);
   const [loading, setLoading] = useState(false); // To track loading state
   const [message, setMessage] = useState(''); // To display success or error messages
