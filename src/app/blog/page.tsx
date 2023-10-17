@@ -1,11 +1,11 @@
 "use client";
 import { useQuery } from "@apollo/client";
 import { GET_BLOGS } from "@/graphql/queries";
+import Link from "next/link";
 
 interface Blog {
   _id: string;
   title: string;
-  content: string;
   author: {
     _id: string;
   };
@@ -28,10 +28,11 @@ export default function Blog() {
             key={blog._id}
             className="rounded overflow-auto flex flex-col max-w-lg mt-4 min-w-full"
           >
-            <h2 className="text-xl font-semibold mb-2">{blog.title}</h2>
-            <p>{blog.content}</p>
-            <p>Author: {blog.author._id}</p>
-            <p>Created at: {blog.createdAt}</p>
+            <Link href={`/blog/${blog._id}`}>
+              <h2 className="text-xl font-semibold mb-2">{blog.title}</h2>
+              <p>Author: {blog.author._id}</p>
+              <p>Created at: {blog.createdAt}</p>
+            </Link>
           </li>
         ))}
       </ul>

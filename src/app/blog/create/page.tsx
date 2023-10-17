@@ -1,6 +1,10 @@
-"use client"
+"use client";
+import dynamic from "next/dynamic";
 import React, { useState } from "react";
 import { useMutation, gql } from "@apollo/client";
+
+const ReactQuill = dynamic(() => import("react-quill"), { ssr: false });
+import "react-quill/dist/quill.snow.css";
 
 const CREATE_BLOG = gql`
   mutation CreateBlog($title: String!, $content: String!, $authorId: ID!) {
@@ -32,8 +36,8 @@ export default function BlogCreate() {
   const [createBlog] = useMutation(CREATE_BLOG);
 
   const [blog, setBlog] = useState<Blog[]>([]);
-  const [loading, setLoading] = useState(false); // To track loading state
-  const [message, setMessage] = useState(''); // To display success or error messages
+  const [loading, setLoading] = useState(false);
+  const [message, setMessage] = useState("");
 
   const handleCreateBlog = async () => {
     try {
@@ -48,15 +52,28 @@ export default function BlogCreate() {
       setBlog([...blog, data.createBlog]);
 
       // Reset input fields and show success message
-      setTitle('');
-      setContent('');
-      setMessage('Blog created successfully');
+      setTitle("");
+      setContent("");
+      setMessage("Blog created successfully");
     } catch (error) {
       console.error("Error creating the blog:", error);
     } finally {
-        setLoading(false); // Stop loading, whether successful or not
-      }
+      setLoading(false); // Stop loading, whether successful or not
+    }
   };
+
+  const  modules  = {
+    toolbar: [
+        [{ header: [1, 2, 3, 4, 5, 6, false] }],
+        ["bold", "italic", "underline"],
+        [{ color: [] }, { background: [] }],
+        ["blockquote"],
+        [{ list:  "ordered" }, { list:  "bullet" }],
+        ["link", "image", "video"],
+        [{ indent:  "-1" }, { indent:  "+1" }, { align: [] }]
+        
+    ],
+};
 
   return (
     <div className="container mx-auto p-4">
@@ -71,22 +88,30 @@ export default function BlogCreate() {
             className="w-full p-2 border rounded"
           />
         </div>
+
         <div className="mb-4">
           <label className="block text-sm font-medium">Content:</label>
-          <textarea
-            value={content}
-            onChange={(e) => setContent(e.target.value)}
-            className="w-full p-2 border rounded"
-          />
+          <div className="min-h-[200px]">
+            <ReactQuill theme="snow" value={content} onChange={setContent} placeholder={"Write something awesome..."} modules={modules} />
+          </div>
         </div>
+
         <button
           type="button"
           onClick={handleCreateBlog}
           className="bg-blue-500 text-white p-2 rounded hover:bg-blue-600"
         >
-          {loading ? 'Creating...' : 'Create Feed'}
+          {loading ? "Creating..." : "Create"}
         </button>
-        {message && <p className={`mt-2 ${message.includes('Error') ? 'text-red-600' : 'text-green-600'}`}>{message}</p>}
+        {message && (
+          <p
+            className={`mt-2 ${
+              message.includes("Error") ? "text-red-600" : "text-green-600"
+            }`}
+          >
+            {message}
+          </p>
+        )}
       </form>
     </div>
   );

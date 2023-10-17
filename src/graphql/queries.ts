@@ -26,3 +26,16 @@ query GetAllBlog {
 }
 `;
 
+export const GET_BLOG = gql`
+query GetBlog($getBlogId: ID!) {
+  getBlog(id: $getBlogId) {
+    _id
+    title
+    content
+    author {
+      _id
+    }
+    createdAt
+  }
+}`
+
