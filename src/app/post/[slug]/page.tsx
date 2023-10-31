@@ -15,7 +15,6 @@ function capitalizeFirstLetter(text: string) {
   return text.charAt(0).toUpperCase() + text.slice(1);
 }
 
-
 const PostLayout = ({ params }: { params: { slug: string } }) => {
   const post = allPosts.find((post) => post._raw.flattenedPath === params.slug);
   if (!post) throw new Error(`Post not found for slug: ${params.slug}`);
@@ -23,13 +22,14 @@ const PostLayout = ({ params }: { params: { slug: string } }) => {
   return (
     <article className="mx-auto max-w-xl py-8">
       <h1 className="text-3xl font-bold">{post.title}</h1>
-      
+
       <div className="pt-4 pb-2">
         <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-bold text-gray-700 mr-2 mb-2">
-        {capitalizeFirstLetter(post.category)}
+          {capitalizeFirstLetter(post.category)}
         </span>
         <div className="inline-block flex-wrap">
-            {post.tags.map((tag) => (
+          {post.tags &&
+            post.tags.map((tag) => (
               <span
                 key={tag}
                 className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-light text-gray-700 mr-2 mb-2"
@@ -37,7 +37,7 @@ const PostLayout = ({ params }: { params: { slug: string } }) => {
                 {capitalizeFirstLetter(tag)}
               </span>
             ))}
-          </div>
+        </div>
       </div>
 
       <time dateTime={post.date} className="mb-1 text-xs text-gray-600">
