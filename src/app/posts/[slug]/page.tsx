@@ -11,7 +11,7 @@ export const generateMetadata = ({ params }: { params: { slug: string } }) => {
   return { title: post.title };
 };
 
-function capitalizeFirstLetter(text) {
+function capitalizeFirstLetter(text: string) {
   return text.charAt(0).toUpperCase() + text.slice(1);
 }
 
