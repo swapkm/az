@@ -2,7 +2,7 @@
 import Link from 'next/link'
 import { compareDesc } from 'date-fns'
 import { allPosts } from 'contentlayer/generated'
-import PostCard from '@/componets/postCard'
+import PostCard from '@/componets/PostCard'
 
 export default function Home() {
   const posts = allPosts.sort((a, b) => compareDesc(new Date(a.date), new Date(b.date)))
