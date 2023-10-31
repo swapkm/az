@@ -1,0 +1,59 @@
+---
+title: John Milton - The Paradise Lost (Book II)
+date: 2021-12-24
+category: english
+tags:
+  - ma
+  - 1st sem
+image: /images/my_journey_transforming_dreams_into_actions.webp
+---
+
+## Milton, John (1608 – 1674)
+
+John Milton, Paradise Lost, 2nd edn. (London: Samuel Simmons, 1674). A transcription by Roy Flannagan of the second (1674) edition in John Milton’s Complete Poetical Works Reproduced in Photographic Facsimile. A Critical Text Edition, ed. Harris Francis Fletcher, III (Urbana: University of Illinois Press, 1948). PR 3551 F52 Robarts Library. As published in Ian Lancashire, in collaboration with John Bradley, Willard McCarty, Michael Stairs, and T. R. Wooldridge, Using TACT and Electronic Texts: Text-Analysis Computing Tools Vers. 2.1 for MS-DOS and PC DOS (New York: Modern Language Association of America, 1996). CD-ROM.
+
+**_Paradise Lost_** is an [epic poem](https://en.wikipedia.org/wiki/Epic_poetry) in [blank verse](https://en.wikipedia.org/wiki/Blank_verse) by the 17th-century English poet [John Milton](https://en.wikipedia.org/wiki/John_Milton) (1608–1674). The first version, published in 1667, consists of ten books with over ten thousand lines of [verse](https://en.wikipedia.org/wiki/Verse_(poetry)). A second edition followed in 1674, arranged into twelve books (in the manner of [Virgil](https://en.wikipedia.org/wiki/Virgil)‘s [_Aeneid_](https://en.wikipedia.org/wiki/Aeneid)) with minor revisions throughout. It is considered to be Milton’s [masterpiece](https://en.wikipedia.org/wiki/Masterpiece), and it helped solidify his reputation as one of the greatest English poets of all time. The poem concerns the [biblical](https://en.wikipedia.org/wiki/Bible) story of the [fall of man](https://en.wikipedia.org/wiki/Fall_of_man): the temptation of [Adam and Eve](https://en.wikipedia.org/wiki/Adam_and_Eve) by the [fallen angel](https://en.wikipedia.org/wiki/Fallen_angel) [Satan](https://en.wikipedia.org/wiki/Satan) and their expulsion from the [Garden of Eden](https://en.wikipedia.org/wiki/Garden_of_Eden).
+
+### Characters:
+
+1.  Satan
+2.  Adam
+3.  Eve
+4.  The Son of God
+5.  God the Father
+6.  Raphel
+7.  Michael
+
+**Read Full Book:** [](https://www.sparknotes.com/poetry/paradiselost/full-text/book-ii/) [https://rpo.library.utoronto.ca/content/paradise-lost-book-ii-1674](https://rpo.library.utoronto.ca/content/paradise-lost-book-ii-1674)
+
+## Summary:
+
+At the start of Book II, Satan sits on his throne like a Middle Eastern potentate and addresses the assembled devils as to the course of action they should follow. Four of the devils speak — Moloch, Belial, Mammon, and Beelzebub — with Beelzebub being Satan’s mouthpiece. Each speaker offers a different attitude concerning a solution for their Hellish predicament: Moloch proposes open warfare on Heaven; Belial proposes that they do nothing; Mammon argues that Hell may not be so bad, that it can be livable, even comfortable, if all the devils will work to improve it; and Beelzebub, Satan’s mouthpiece, argues that the only way to secure revenge on Heaven is to corrupt God’s newest creation: Man.
+
+Beelzebub’s (Satan’s) plan carries the day, and Satan begins his journey up from Hell. At Hell’s Gate, he is confronted by his daughter, Sin, a being whose upper torso is that of a beautiful woman but whose lower body is serpent-like. All around her waist are hellish, barking dogs. Across from Sin is her phantom-like son, Death.
+
+Satan persuades Sin to open the gates, which she does, but she cannot close them again. Satan ventures forth into the realm of Chaos and Night, the companions that inhabit the void that separates Hell from Heaven. From Chaos, Satan learns that Earth is suspended from Heaven by a golden chain, and he immediately begins to make his way there. As Satan creates the path from Hell to Earth, Sin and Death follow him, constructing a broad highway.
+
+## Analysis:
+
+Book II divides into two large sections. The first is the debate among the devils concerning the proper course of action. The second section deals with Satan’s voyage out of Hell with Sin and Death — the only extended allegory in _Paradise Lost_.
+
+The council of demons that begins Book II recalls the many assemblies of heroes in both the _Iliad_ and the _Aeneid_. Further the debates also seem based on the many meetings that Milton attended in his various official capacities. In his speech, each devil reveals both the characteristics of his personality and the type of evil he represents. For example, Moloch, the first to speak, is the unthinking man of action. Like Diomedes in the _Iliad_, he is not adept in speech, but he does know how to fight. He is for continued war and unconcerned about the consequences. But, moreover, the attitude toward violence exhibited by Moloch reveals a particular type of evil. In the _Inferno_, Dante had divided evils into three broad categories: sins of appetite, sins of will, and sins of reason. In the Renaissance, these categories still dominated much thought concerning the nature of evil. In Moloch, the reader sees a straightforward example of the evil that comes from the will. Unthinking violence is the result of lack of control of the will. And for Moloch, the “furious king” (VI, 357), violence defines his character.
+
+In contrast to Moloch, Belial as a character type is a sophist, a man skilled in language, an intellectual who uses his powers to deceive and confuse. His basic argument is that the devils should do nothing. Belial wishes to avoid war and action, but he couches his arguments so skillfully that he answers possible objections from Moloch before those objections can be raised. He, in fact, rises to speak so quickly that the assembly is not able to respond to Moloch’s idea. Belial also suggests the possibility that at some point God might allow the fallen angels back into Heaven, though these arguments seem specious at best and simply an excuse for cowardly inactivity. In terms of evil, Moloch uses reason for corrupt purposes. The use of reason for evil was theologically the greatest sin because reason separates man from animals. Belial’s sophistry is not as corrupting as Beelzebub’s and Satan’s fraud will be, but it is still a sin of reason. Milton, in fact, introduces Belial as fair and handsome on the outside but “false and hollow” within (112). Milton makes the point about reason straightforwardly at the end of Belial’s speech by referring to it as “words cloth’d in reason’s garb” (226), as opposed to simply words of reason.
+
+Belial’s persuasive speech for nothing is followed by the practical, materialistic assessment of Mammon. Mammon sees the little picture. He finds no profit in war with God or in doing nothing. Hell, he argues can be made into a livable, even pleasurable place. In Heaven, Mammon always looked down at the streets of gold. In Hell, he sees the gem and mineral wealth and thinks that Hell can be improved. In terms of sin, Mammon exhibits the sin of the appetite. Here the basic instinct of appetite controls the person. Mammon’s desire for individual wealth controls his assessment of everything. The proverb that one cannot serve God and Mammon both easily translates to the idea that one cannot serve both God and one’s appetite.
+
+Finally, Beelzebub rises to speak — and he speaks for Satan. His argument to attack God by corrupting Man is Satan’s argument. This idea is essentially a fait accompli; Satan has intended this plan all along and simply uses Beelzebub to present it. The entire council has been a sham, designed to rubber stamp Satan’s design, a design that also allows Satan to leave Hell. Beelzebub’s speech and actions are like those of Belial in that they pervert reason. But unlike Belial’s arguments, Beelzebub’s involve treachery against his fellow demons. All of the devils have involved themselves in treachery against God, but now Beelzebub and Satan compound this treachery by defrauding their own companions. The devils have seemingly been given a choice within a council, but in fact this seeming choice was illusion. They have been set up to do Satan’s bidding. For many Renaissance thinkers, this type of treachery would have been considered Compound Fraud, the worst sin of all.
+
+At this point, Satan begins his journey out of Hell to search for Earth and Man. The devils left behind explore Hell, finding various geographic areas including fire and ice, but also mountains and fields. Their exploratory activities along with their sports, songs, and games suggest another concept of Hell — Limbo, the part of Hell Catholicism recognized as reserved for virtuous pagans and unbaptised babies, a part of Hell that is Hell only in that those in it can never be in the presence of God. Limbo is an earthly paradise, and Milton seems to suggest that the fallen angels could have that for their punishment if they were content to accept their defeat by God.
+
+As the devils explore Hell, Satan makes his way toward the gate out of Hell. This section of Book II begins the one extended allegory in _Paradise Lost_. An _allegory_ is a literary work in which characters, plot, and action symbolize, in systematic fashion, ideas lying outside the work. While much of _Paradise Lost_  deals with Christian ideas and theology, only in this section does Milton write in a true allegorical manner.
+
+At the locked gate where he may exit Hell, Satan finds two guards: his daughter, Sin, and his grandson, Death. The way Sin and Death were created explains the nature of allegory. Sin was born when Satan, in Heaven, felt envy for Jesus. Sin sprang from Satan’s head (symbolically his thoughts) just as Athena (wisdom) sprang from the head of Zeus. Death was born of the unnatural union between Satan and his daughter. Finally, adding to the general nastiness of the story, Death raped his own mother, Sin, creating the Cerberus-like hellhounds that gather around her waist.
+
+The allegorical interpretation of this story is, in its simplest form, easy to follow. Satan’s envy for Jesus was a sin, which becomes manifest in the character of his daughter, Sin. That is, the concept of sin in Satan’s mind literally becomes Sin, a character. Sin, in conjunction with satanic evil, produces Death. Finally, Sin and Death together produce the hellhounds that will come to plague all mankind. The allegory here can be explored more deeply, but basically it explains, through characters and action, how sin and death entered the universe. Similarly, the fact that Sin opens the gate of Hell for Satan is also allegoric as is her inability to close it. Thus Satan, by leaving Hell, brings Sin and Death into the world.
+
+Next Satan confronts the characters Chaos and Night. These two represent the great void that separates Earth from Hell. They are also part of the complex Renaissance cosmogony, but on the most basic level they represent the vast unorganized part of the universe away from Heaven and Earth. Hell lies on the other side of Chaos, and Night shows just how far removed Hell is, both figuratively and literally, from God.
+
+Chaos and Night welcome Satan’s attempt to cross the space between Heaven and Hell because they too lie outside the purview of Heaven. Satan becomes the pioneer who crosses the wilderness of Chaos and Night to find Earth, and in this effort he gains heroic stature. Within the allegory, however, he is simply charting the path for Sin and Death, since they follow him, building a broad highway. Once again the allegory is clear: Satan brings Sin and Death into the world where they will convey countless souls back across the broad highway to Hell. Also, the gate of Hell has been left open, and evils can now go from Hell to Earth at will.

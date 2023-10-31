@@ -9,7 +9,7 @@ function capitalizeFirstLetter(text: string) {
 
 export default function PostCard(post: Post) {
   return (
-    <div className="m-8 rounded-xl overflow-hidden shadow-lg">
+    <div className="mt-12 rounded-xl overflow-hidden shadow-lg">
       <Link href={post.url} className="hover:text-blue-900 dark:text-white">
         {/* <div className="mb-3">
           <div

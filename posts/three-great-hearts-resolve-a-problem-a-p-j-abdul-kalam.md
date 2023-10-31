@@ -3,9 +3,8 @@ title: Three Great Hearts Resolve a Problem - A. P. J. Abdul Kalam
 date: 2021-12-24
 category: english
 tags:
-  - ba
+  - ma
   - 1st sem
-  - anotherTag
 image: /images/my_journey_transforming_dreams_into_actions.webp
 ---
 

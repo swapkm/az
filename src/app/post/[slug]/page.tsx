@@ -40,12 +40,12 @@ const PostLayout = ({ params }: { params: { slug: string } }) => {
         </div>
       </div>
 
-      <time dateTime={post.date} className="mb-1 text-xs text-gray-600">
+      <time dateTime={post.date} className="text-xs text-gray-600">
         {format(parseISO(post.date), "LLLL d, yyyy")}
       </time>
 
       <div
-        className="[&>*]:mb-3 [&>*:last-child]:mt-10"
+        className="[&>*]:my-3 [&>*:last-child]:mt-10"
         dangerouslySetInnerHTML={{ __html: post.body.html }}
       />
     </article>
