@@ -7,7 +7,12 @@ export const Post = defineDocumentType(() => ({
   fields: {
     title: { type: "string", required: true },
     date: { type: "date", required: true },
+    category: { type: "string", required: true },
     image: { type: "string" },
+    tags: {
+      type: "list",
+      of: { type: "string" },
+    },
   },
   computedFields: {
     url: {
@@ -19,4 +24,5 @@ export const Post = defineDocumentType(() => ({
 
 export default makeSource({
   contentDirPath: "posts",
-  documentTypes: [Post] });
+  documentTypes: [Post],
+});
