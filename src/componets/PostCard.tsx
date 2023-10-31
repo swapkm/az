@@ -3,7 +3,7 @@ import { format, parseISO } from "date-fns";
 import Link from "next/link";
 import Image from "next/image";
 
-function capitalizeFirstLetter(text) {
+function capitalizeFirstLetter(text: string) {
   return text.charAt(0).toUpperCase() + text.slice(1);
 }
 
