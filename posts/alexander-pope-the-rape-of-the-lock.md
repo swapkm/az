@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/alexander_pope_the_rape_of_the_lock.webp
 ---
 
 **The Rape of the Lock**  is a mock-heroic narrative poem written by  **Alexander Pope**. One of the most commonly cited examples of high burlesque, it was first published anonymously in Lintot’s Miscellaneous Poems and Translations (May 1712) in two cantos (334 lines); a revised edition “Written by Mr. Pope” followed in March 1714 as a five-canto version (794 lines) accompanied by six engravings. Pope boasted that this sold more than three thousand copies in its first four days. The final form of the poem appeared in 1717 with the addition of Clarissa’s speech on good humour. The poem was much translated and contributed to the growing popularity of mock-heroic in Europe.

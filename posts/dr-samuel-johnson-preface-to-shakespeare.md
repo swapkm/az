@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/dr_samuel_johnson_preface_to_shakespeare.webp
 ---
 
 **Samuel Johnson** (18 September 1709 – 13 December 1784), often called Dr Johnson, was an English writer who made lasting contributions as a poet, playwright, essayist, moralist, literary critic, sermonist, biographer, editor, and lexicographer. The Oxford Dictionary of National Biography calls him “arguably the most distinguished man of letters in English history”.

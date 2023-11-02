@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/geoffrey_chaucer_the_prologue_to_the_canterbury_tales.webp
 ---
 
 **The Canterbury Tales**  is a collection of  **twenty-four**  stories that runs to over  **17,000 lines**  written in Middle English by  **Geoffrey Chaucer**  between  **1387 and 1400**. It is widely regarded as Chaucer’s magnum opus. The tales are presented as part of a story-telling contest by a group of pilgrims as they travel together from  **London to Canterbury**  to visit the  **shrine of Saint Thomas Becket**  at Canterbury Cathedral. The prize for this contest is a free meal at the  **Tabard Inn**  at  **Southwark**  on their return. The Canterbury Tales is generally thought to have been incomplete at the end of Chaucer’s life.

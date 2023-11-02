@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/james_boswell_life_of_johnson.webp
 ---
 
 **James Boswell**, **9th Laird of Auchinleck**  (29 October 1740 – 19 May 1795), was a Scottish biographer, diarist, and lawyer, born in Edinburgh. He is best known for his biography of his friend and older contemporary, the English writer Samuel Johnson, which is commonly said to be the greatest biography written in the English language. A great mass of Boswell’s diaries, letters, and private papers were recovered from the 1920s to the 1950s, and their ongoing publication by Yale University has transformed his reputation.

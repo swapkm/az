@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/william_congreve_the_way_of_the_world.webp
 ---
 
 **The Way of the World**  is a play written by the English playwright William Congreve . It premiered in early March 1700 in the theatre in Lincoln’s Inn Fields in London. It is widely regarded as one of the best Restoration comedies and is still occasionally performed. Initially, however, the play struck many audience members as continuing the “immorality” of the previous decades, and was not well received.

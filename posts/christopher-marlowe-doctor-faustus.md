@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/christopher_marlowe_doctor_faustus.webp
 ---
 
 **Christopher Marlowe**, also known as **Kit Marlowe** (baptized Feb. 26, 1564, Canterbury, Kent, Eng.—died May 30, 1593, Deptford, near London), Elizabethan poet and Shakespeare’s most important predecessor in English drama, who is noted especially for his establishment of dramatic blank verse.

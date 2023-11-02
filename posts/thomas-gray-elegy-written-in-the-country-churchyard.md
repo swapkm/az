@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/thomas_gray_elegy_written_in_the_country_churchyard.webp
 ---
 
 **Elegy Written in a Country Churchyard**  is a poem by Thomas Gray, completed in 1750 and first published in 1751. The poem’s origins are unknown, but it was partly inspired by Gray’s thoughts following the death of the poet Richard West in 1742. Originally titled Stanzas Wrote in a Country Church-Yard, the poem was completed when Gray was living near the Church of St Giles, Stoke Poges. It was sent to his friend Horace Walpole, who popularised the poem among London literary circles. Gray was eventually forced to publish the work on 15 February 1751 in order to preempt a magazine publisher from printing an unlicensed copy of the poem.

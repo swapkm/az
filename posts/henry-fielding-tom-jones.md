@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/henry_fielding_tom_jones.webp
 ---
 
 **_Tom Jones, a Foundling_**  is a 1749 novel by Henry Fielding. It is his most famous work and was considered one of the greatest English novels ever written by subsequent authors like W. Somerset Maughan and Samuel Coleridge. It is divided into eighteen books and aims to explore human nature, covering a wide variety of social themes and literary styles.

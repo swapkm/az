@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/john_milton_the_paradise_lost_book_II.webp
 ---
 
 ## Milton, John (1608 – 1674)

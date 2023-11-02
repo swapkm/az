@@ -4,7 +4,7 @@ date: 2021-12-24
 category: sociology
 tags:
   - ba
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/elements-of-culture.webp
 ---
 
 

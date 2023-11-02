@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/joseph_conrad_heart_of_darkness.webp
 ---
 
 **Heart of Darkness**  (1899) is a novella by Polish-English novelist Joseph Conrad in which the sailor Charles Marlow tells his listeners the story of his assignment as steamer captain for a Belgian company in the African interior. The novel is widely regarded as a critique of European colonial rule in Africa, whilst also examining the themes of power dynamics and morality. Although Conrad does not name the river on which most of the narrative takes place, at the time of writing the Congo Free State, the location of the large and economically important Congo River, was a private colony of Belgium’s King Leopold II. Marlow is given a text by Kurtz, an ivory trader working on a trading station far up the river, who has “gone native” and is the object of Marlow’s expedition.

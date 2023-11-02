@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/john_dryden_absalom_achitophel.webp
 ---
 
 **Absalom and Achitophel**  is a celebrated satirical poem by  **John Dryden**, written in heroic couplets and first published in 1681. The poem tells the Biblical tale of the rebellion of Absalom against King David; in this context it is an allegory used to represent a story contemporary to Dryden, concerning King Charles II and the Exclusion Crisis (1679–1681). The poem also references the Popish Plot (1678).

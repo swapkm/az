@@ -4,7 +4,7 @@ date: 2021-12-24
 category: history
 tags:
   - ba
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/harappan_civilization.webp
 ---
 
 ## प्रस्तावना(Introduction):

@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/charles_dickens_great_expectations.webp
 ---
 
 **Charles John Huffam Dickens** (7 February 1812 – 9 June 1870) was an English novelist and social critic who created some of the world’s best-known fictional characters, and is regarded by many as the greatest novelist of the [Victorian era](https://en.wikipedia.org/wiki/Victorian_era). His works enjoyed unprecedented popularity during his lifetime and, by the 20th century, critics and scholars had recognized him as a literary genius. His novels and short stories are widely read today.

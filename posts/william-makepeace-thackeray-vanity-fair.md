@@ -5,7 +5,7 @@ category: english
 tags:
   - ma
   - 1st sem
-image: /images/my_journey_transforming_dreams_into_actions.webp
+image: /images/william_makepeace_thackeray_vanity_fair.webp
 ---
 
 **William Makepeace Thackeray**  was an English novelist and illustrator. He is known for his satirical works, particularly his 1847–1848 novel Vanity Fair, a panoramic portrait of British society, and the 1844 novel The Luck of Barry Lyndon, which was adapted for a 1975 film by Stanley Kubrick.
